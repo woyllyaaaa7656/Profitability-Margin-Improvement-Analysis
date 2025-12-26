@@ -4,13 +4,13 @@ A strategic profitability analysis of an Indian IT services company using consul
 
 Key Analysis
 
-Revenue vs Cost breakdown
-Sector and geography margin analysis
+Revenue vs Cost breakdown,
+Sector and geography margin analysis,
 Product diversification strategy
 
 Tools & Skills Used
 
-Business Analysis
-MECE Framework
-Profitability Tree
+Business Analysis,
+MECE Framework,
+Profitability Tree,
 Strategic Thinking
